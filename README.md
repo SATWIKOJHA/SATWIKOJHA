@@ -5,19 +5,18 @@
   Hi there! 👋 I'm Satwik Ojha
 </h1>
 
-<h3 align="center">"I want AI to do my laundary and dishes so that I can do my art and writing,</br>
-not for AI to do my art and writing so that I can do my laundary and dishes."</h3>
+<h3 align="center">"Turning imagination into intelligence — one model at a time 🤖✨"</h3>
 
 <img src="https://github.com/user-attachments/assets/9ef85aba-a7b8-4120-acf8-d903a1831c6f" alt="voxel" align="right" height=400>
 
 ### 🫣 About Me  
-I'm a **Web Developer & Python Enthusiast** with a strong foundation in building scalable and efficient solutions.  
+I'm a **Passionate AI/ML Developer** with hands-on experience in creating **TTS (Text-to-Speech)** and **ASR (Automatic Speech Recognition)** datasets, as well as building **Live VideoBots** and advanced **AI automation pipelines**.  
 
-- 🔥 I specialize in **JavaScript frameworks, C++, Python, databases, and cloud technologies**, creating everything from backend systems to interactive web applications.  
-- 🛠️ I have experience in **app development** using **PyQt and React**, along with building **Chrome Extensions** to enhance web functionality.  
-- 🎨 Passionate about **AI ML development**, I explore different new upcoming AI tools and Explore them. 
-- 📱 I also have a deep interest in **Android development**, experimenting with mobile solutions and innovative technologies.  
-- 🏆 ** Started learning on agents 
+- 🔥 Skilled in **Python, Deep Learning, and Web Technologies**, I focus on building scalable and production-ready AI solutions.  
+- 🧠 Experienced in developing **AI-driven tools**, **speech processing systems**, and **custom dataset pipelines** for large-scale voice and transcription models.  
+- 🎨 I’m passionate about **AI/ML innovation**, constantly exploring cutting-edge technologies like **LLMs**, **WhisperX**, and **Real-Time AI Avatars**.  
+- 🛠️ Previously worked with **PyQt**, **React**, and **Chrome Extensions** for UI/UX and backend integrations.  
+- 🤖 Actively experimenting with **agents, automation systems**, and **real-time generative AI applications**.  
 
 ### 📬 Connect with Me  
 
@@ -93,4 +92,3 @@ I'm a **Web Developer & Python Enthusiast** with a strong foundation in building
 <a href="https://www.linux.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40">
 </a>
-
